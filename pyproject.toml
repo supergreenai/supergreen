@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "supergreen"
 version = "0.0.1"
-description = "Supergreen, the data scientist's secret sauce, analyzes production prediction problems caused by those sly tabular-trained machine learning models."
+description = "Supergreen, a Python package dedicated to analyzing machine learning prediction errors, primarily focuses on models trained on tabular data."
 authors = ["Itai Friendinger <itaifrenkel@live.com>"]
 readme = "README.md"
 
